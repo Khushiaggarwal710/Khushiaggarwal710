@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+
+I am Khushi Aggarwal, A B.Tech Student
+
 
 <!--
 **Khushiaggarwal710/Khushiaggarwal710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
