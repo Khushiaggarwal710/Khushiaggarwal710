@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Khushi Aggarwal, A B.Tech Student
+I am Khushi Aggarwal, A CSE B.Tech Student
 
 
 <!--
