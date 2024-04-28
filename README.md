@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🌱 I’m Interested to play with Data
 - 👯 I’m making the world better by sharing my experience & work 
 - 💬 Ask me about Technology & Data
-- 📫 How to reach me: khushiaggarwal710@gmail.com | <a href="https://www.linkedin.com/in/khushi-aggarwal-5295a2235/" target="_blank" rel="noreferrer">linkedin.com/in/khushi-aggarwal-5295a2235</a>
+- 📫 How to reach me: khushi.agg710@gmail.com | <a href="https://www.linkedin.com/in/khushiaggarwal710/" target="_blank" rel="noreferrer">linkedin.com/in/khushiaggarwal710</a>
 - ⚡ Fun fact: I'm currently pursuing B.Tech Computer Science
 
 
