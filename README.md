@@ -1,6 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khushi Aggarwal
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khushi Aggarwal.
 ======================================================================================================================================
-<h4>Data Science & ML | Python</h4>
+<h4>Data Science & Machine Learning | Python | C++</h4>
 
 - 🔭 I’m currently exploring with Data Science and ML Projects.
 - 🌱 I’m Interested to play with Data.
